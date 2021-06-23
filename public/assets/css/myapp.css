@@ -1,0 +1,83 @@
+.mycard {
+    background-color: #EEEEEE;
+    padding: 15px;
+}
+
+.mycard .m-contents {
+    background-color: #ffffff;
+    padding: 20px;
+}
+
+.mycard .m-contents .mc-head {
+    margin: 10px 0 10px 0;
+}
+
+.mycard .m-contents .mc-body {
+    margin: 10px 0 10px 0;
+}
+
+.mycard .m-contents .mc-body .mcb-invoice {
+    margin: 0 0 30px 0;
+}
+
+.mycard .m-contents .mc-body .mcb-from {
+    margin: 0 0 20px 0;
+}
+
+.mycard .m-contents .mc-body .mcb-for {
+    margin: 20px 0 0 0;
+}
+
+.mycard .m-contents .mc-body .mcb-items {
+    margin: 30px 0 0px 0;
+}
+
+table.table-invoice {
+    /* background-color: #EEEEEE; */
+    padding: 0;
+}
+
+table.table-invoice tr,
+td {
+    padding: 2px 10px 2px 5px;
+}
+
+table.table-invoice .b1 {
+    border-left: none;
+}
+
+table.table-invoice .b2 {
+    border-left: hidden;
+}
+
+table.table-invoice .b3 {
+    border-left: dotted;
+}
+
+table.table-invoice .b4 {
+    border-left: dashed;
+}
+
+table.table-invoice .b5 {
+    border-left: 2px solid #EEEEEE;
+}
+
+table.table-invoice .b6 {
+    border-left: double;
+}
+
+table.table-invoice .b7 {
+    border-left: groove;
+}
+
+table.table-invoice .b8 {
+    border-left: ridge;
+}
+
+table.table-invoice .b9 {
+    border-left: inset;
+}
+
+table.table-invoice .b10 {
+    border-left: outset;
+}
